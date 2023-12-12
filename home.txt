@@ -4,3 +4,5 @@ Linha escrita na main
 =======
 Linha escrita na outra branch
 >>>>>>> outra-branch
+
+Linha adincionada pelo repositorio local
