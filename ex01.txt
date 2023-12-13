@@ -1,0 +1,7 @@
+1 - <header>   8 - <a>
+2 - <main>     9 - <footer>
+3 - <nav>     10 - <li>
+4 - <img>     11 - <ul>
+5 - <h1>
+6 - <h2>
+7 - <p>
